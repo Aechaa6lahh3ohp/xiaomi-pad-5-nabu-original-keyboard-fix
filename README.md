@@ -1,7 +1,7 @@
 # xiaomi-pad-5-nabu-original-keyboard-fix
 ---
 テスト環境: crDroid 12(rooted)
----
+
 root化されていないデバイスではテストしていません
 もしかするとadbやROMによってインジェクトできるかもしれませんが、**全くテストしていません**
 
