@@ -1,4 +1,7 @@
 # xiaomi-pad-5-nabu-original-keyboard-fix
+Xiaomi Pad 5純正キーボードでバッククオートを入力できない問題を修正します
+元々バックオートが至極入力しづらいキーボードです。ESCに`~`と共に同居しているからです
+このfixはGeneric.klをベースとしています
 - テスト環境
   - crDroid 12(**rooted**)
 
