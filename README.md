@@ -10,6 +10,7 @@ rootを獲ったばかりでXiaomi純正キーボードが動かない場合は�
 ```bash
 echo "enable_keyboard" > /sys/bus/platform/drivers/xiaomi-keyboard/soc:xiaomi_keyboard/xiaomi_keyboard_conn_status
 ```
+参考:https://github.com/Till0196/magisk-module-xiaomi-keyboard-nabu-fix/blob/main/post-fs-data.sh
 
 # 使用方法
 root権限のターミナルアプリから`mount -o rw,remount /`を実行後、Xiaomi_Pad.klを`/system/usr/keylayout/`と`data/system/devices/keylayout/`に置きrebootします
